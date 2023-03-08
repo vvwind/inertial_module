@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TinyGoPlugin">
+    <option name="gc" value="conservative" />
+    <option name="goArch" value="arm" />
+    <option name="goOS" value="linux" />
+    <option name="goTags" value="cortexm baremetal linux arm bluepill stm32f103 stm32f1 stm32 tinygo math_big_pure_go gc.conservative scheduler.tasks serial.uart" />
+    <option name="scheduler" value="tasks" />
+    <option name="targetPlatform" value="bluepill-clone" />
+  </component>
+</project>

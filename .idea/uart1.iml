@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="Go" enabled="true">
+    <buildTags>
+      <option name="os" value="linux" />
+      <option name="arch" value="arm" />
+      <option name="customFlags">
+        <array>
+          <option value="cortexm" />
+          <option value="baremetal" />
+          <option value="linux" />
+          <option value="arm" />
+          <option value="bluepill" />
+          <option value="stm32f103" />
+          <option value="stm32f1" />
+          <option value="stm32" />
+          <option value="tinygo" />
+          <option value="math_big_pure_go" />
+          <option value="gc.conservative" />
+          <option value="scheduler.tasks" />
+          <option value="serial.uart" />
+        </array>
+      </option>
+    </buildTags>
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
